@@ -89,7 +89,64 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dymer-chapter-1.xhtml" id="dymer-chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-2.xhtml" id="dymer-chapter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-3.xhtml" id="dymer-chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-4.xhtml" id="dymer-chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-5.xhtml" id="dymer-chapter-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-6.xhtml" id="dymer-chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-7.xhtml" id="dymer-chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-8.xhtml" id="dymer-chapter-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-chapter-9.xhtml" id="dymer-chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-epigrpaph.xhtml" id="dymer-epigrpaph.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-halftitlepage.xhtml" id="dymer-halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer.xhtml" id="dymer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/spirits-in-bondage-chapter-1.xhtml" id="spirits-in-bondage-chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-2.xhtml" id="spirits-in-bondage-chapter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-3.xhtml" id="spirits-in-bondage-chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-4.xhtml" id="spirits-in-bondage-chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-5.xhtml" id="spirits-in-bondage-chapter-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-6.xhtml" id="spirits-in-bondage-chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-7.xhtml" id="spirits-in-bondage-chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-8.xhtml" id="spirits-in-bondage-chapter-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-9.xhtml" id="spirits-in-bondage-chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-10.xhtml" id="spirits-in-bondage-chapter-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-11.xhtml" id="spirits-in-bondage-chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-12.xhtml" id="spirits-in-bondage-chapter-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-13.xhtml" id="spirits-in-bondage-chapter-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-14.xhtml" id="spirits-in-bondage-chapter-14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-15.xhtml" id="spirits-in-bondage-chapter-15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-16.xhtml" id="spirits-in-bondage-chapter-16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-17.xhtml" id="spirits-in-bondage-chapter-17.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-18.xhtml" id="spirits-in-bondage-chapter-18.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-19.xhtml" id="spirits-in-bondage-chapter-19.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-20.xhtml" id="spirits-in-bondage-chapter-20.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-21.xhtml" id="spirits-in-bondage-chapter-21.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-22.xhtml" id="spirits-in-bondage-chapter-22.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-23.xhtml" id="spirits-in-bondage-chapter-23.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-24.xhtml" id="spirits-in-bondage-chapter-24.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-25.xhtml" id="spirits-in-bondage-chapter-25.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-26.xhtml" id="spirits-in-bondage-chapter-26.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-27.xhtml" id="spirits-in-bondage-chapter-27.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-28.xhtml" id="spirits-in-bondage-chapter-28.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-29.xhtml" id="spirits-in-bondage-chapter-29.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-30.xhtml" id="spirits-in-bondage-chapter-30.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-31.xhtml" id="spirits-in-bondage-chapter-31.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-32.xhtml" id="spirits-in-bondage-chapter-32.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-33.xhtml" id="spirits-in-bondage-chapter-33.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-34.xhtml" id="spirits-in-bondage-chapter-34.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-35.xhtml" id="spirits-in-bondage-chapter-35.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-36.xhtml" id="spirits-in-bondage-chapter-36.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-37.xhtml" id="spirits-in-bondage-chapter-37.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-38.xhtml" id="spirits-in-bondage-chapter-38.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-39.xhtml" id="spirits-in-bondage-chapter-39.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-chapter-40.xhtml" id="spirits-in-bondage-chapter-40.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-part-1.xhtml" id="spirits-in-bondage-part-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-part-2.xhtml" id="spirits-in-bondage-part-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-part-3.xhtml" id="spirits-in-bondage-part-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage-prologue.xhtml" id="spirits-in-bondage-prologue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/spirits-in-bondage.xhtml" id="spirits-in-bondage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -97,6 +154,63 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="spirits-in-bondage.xhtml"/>
+		<itemref idref="spirits-in-bondage-prologue.xhtml"/>
+		<itemref idref="spirits-in-bondage-part-1.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-1.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-2.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-3.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-4.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-5.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-6.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-7.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-8.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-9.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-10.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-11.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-12.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-13.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-14.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-15.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-16.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-17.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-18.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-19.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-20.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-21.xhtml"/>
+		<itemref idref="spirits-in-bondage-part-2.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-22.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-23.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-24.xhtml"/>
+		<itemref idref="spirits-in-bondage-part-3.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-25.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-26.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-27.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-28.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-29.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-30.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-31.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-32.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-33.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-34.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-35.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-36.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-37.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-38.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-39.xhtml"/>
+		<itemref idref="spirits-in-bondage-chapter-40.xhtml"/>
+		<itemref idref="dymer.xhtml"/>
+		<itemref idref="dymer-epigrpaph.xhtml"/>
+		<itemref idref="dymer-halftitlepage.xhtml"/>
+		<itemref idref="dymer-chapter-1.xhtml"/>
+		<itemref idref="dymer-chapter-2.xhtml"/>
+		<itemref idref="dymer-chapter-3.xhtml"/>
+		<itemref idref="dymer-chapter-4.xhtml"/>
+		<itemref idref="dymer-chapter-5.xhtml"/>
+		<itemref idref="dymer-chapter-6.xhtml"/>
+		<itemref idref="dymer-chapter-7.xhtml"/>
+		<itemref idref="dymer-chapter-8.xhtml"/>
+		<itemref idref="dymer-chapter-9.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
