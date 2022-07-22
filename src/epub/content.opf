@@ -98,7 +98,7 @@
 		<item href="text/dymer-chapter-7.xhtml" id="dymer-chapter-7.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dymer-chapter-8.xhtml" id="dymer-chapter-8.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dymer-chapter-9.xhtml" id="dymer-chapter-9.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/dymer-epigrpaph.xhtml" id="dymer-epigrpaph.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dymer-epigraph.xhtml" id="dymer-epigraph.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dymer-halftitlepage.xhtml" id="dymer-halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dymer.xhtml" id="dymer.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -200,7 +200,7 @@
 		<itemref idref="spirits-in-bondage-chapter-39.xhtml"/>
 		<itemref idref="spirits-in-bondage-chapter-40.xhtml"/>
 		<itemref idref="dymer.xhtml"/>
-		<itemref idref="dymer-epigrpaph.xhtml"/>
+		<itemref idref="dymer-epigraph.xhtml"/>
 		<itemref idref="dymer-halftitlepage.xhtml"/>
 		<itemref idref="dymer-chapter-1.xhtml"/>
 		<itemref idref="dymer-chapter-2.xhtml"/>
