@@ -40,40 +40,46 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Poetry</meta>
+		<dc:description id="description">A collection of C. S. Lewis’ poetry, including “Spirits in Bondage” and “Dymer.”</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;&lt;abbr&gt;C. S.&lt;/abbr&gt; Lewis&lt;/a&gt; is perhaps best known for this series of children’s novel, &lt;i&gt;The Chronicles of Narnia&lt;/i&gt;, as well as his many Christian writings. However, prior to his conversion to Christianity, he was a staunch Agnostic, who had a very different view of the world and spirituality. The poetry collected here are some of his earliest writings, most written before his conversion. As such, they offer an interesting contrast to Lewis’ later, much more well known writings. &lt;i&gt;Spirits in Bondage&lt;/i&gt; was Lewis’ first published writing, to little fanfare. It was a cycle of poems that offers a pessimistic view of the world, often illustrating the natural world as cruel and uncaring. In contrast, &lt;i&gt;Dymer&lt;/i&gt; was a long narrative poem, that told the story of the titular character’s tragic fate that began with his exile, which led to him suffering through trials and temptations of love, lust, and power of a nature he had never encountered or imagined before.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2003</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/spiritsinbondage00lewirich/</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/101865124</dc:source>
+		<meta property="se:production-notes">Because this is a collection of poetry, words were not modernized.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Spirits_in_Bondage</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dymer_(poem)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/c-s-lewis_poetry</meta>
 		<dc:creator id="author">C. S. Lewis</dc:creator>
 		<meta property="file-as" refines="#author">Lewis, C. S.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Clive Staples Lewis</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/C._S._Lewis</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79003974</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">John F. Peto</dc:contributor>
+		<meta property="file-as" refines="#artist">Peto, John F.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">John Frederick Peto</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_F._Peto</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82138988</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-3">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Chan, Matt</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Chan, Matt</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/thewchan/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
