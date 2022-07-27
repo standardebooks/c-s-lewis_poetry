@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="dymer-epigraph.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Using line breaks for epigraph; lint picked up false positive of mismatching quotes.</reason>
-		</ignore>
-	</file>
 	<file path="dymer-halftitlepage.xhtml">
 		<ignore>
 			<code>s-036</code>

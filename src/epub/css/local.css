@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+[epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -11,12 +12,14 @@
 	margin-top: 1em;
 }
 
+[epub|type~="z3998:verse"] p > span,
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:verse"] p > span + br,
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
