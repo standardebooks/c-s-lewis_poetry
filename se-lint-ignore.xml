@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="dymer-halftitlepage.xhtml">
-		<ignore>
-			<code>s-036</code>
-			<reason>Special case of halftitle page appearing in body matter. Cleared by editor.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
