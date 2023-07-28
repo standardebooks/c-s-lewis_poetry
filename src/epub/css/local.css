@@ -44,6 +44,10 @@ p span.i8{
 	text-align: center;
 }
 
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
+
 /* Override style in core.css */
 section > header + *{
 	margin-top: 1em;
