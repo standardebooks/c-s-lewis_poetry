@@ -41,6 +41,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of C. S. Lewis’ poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt; is perhaps best known for his series of children’s novels and his many Christian writings. But prior to his conversion to Christianity, he was a staunch agnostic, and had a very different view of the world and spirituality. The poetry collected here represents some of his earliest writings, most written before his conversion. As such, they offer an interesting contrast to Lewis’ later, much more well-known literary output.&lt;/p&gt;
