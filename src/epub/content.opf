@@ -44,7 +44,7 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of C. S. Lewis’ poetry.</dc:abstract>
+		<meta property="schema:abstract">A collection of C. S. Lewis’ poetry.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt; is perhaps best known for his series of children’s novels and his many Christian writings. But prior to his conversion to Christianity, he was a staunch agnostic, and had a very different view of the world and spirituality. The poetry collected here represents some of his earliest writings, most written before his conversion. As such, they offer an interesting contrast to Lewis’ later, much more well-known literary output.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Spirits in Bondage&lt;/i&gt; was Lewis’ first published writing, released to little fanfare. It’s a cycle of poems that offers a pessimistic view of the world, often illustrating the natural world as cruel and uncaring. In contrast, &lt;i&gt;Dymer&lt;/i&gt; is a long narrative poem that tells the story of the titular character’s tragic fate, beginning with his exile and leading to his suffering through trials and temptations of a nature he had never imagined before.&lt;/p&gt;
