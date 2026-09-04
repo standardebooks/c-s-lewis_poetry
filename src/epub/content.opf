@@ -31,9 +31,9 @@
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
 		<dc:subject id="subject-1">English poetry</dc:subject>
-		<dc:subject id="subject-2">God -- Poetry</dc:subject>
-		<dc:subject id="subject-3">Good and evil -- Poetry</dc:subject>
-		<dc:subject id="subject-4">Cynicism -- Poetry</dc:subject>
+		<dc:subject id="subject-2">God--Poetry</dc:subject>
+		<dc:subject id="subject-3">Good and evil--Poetry</dc:subject>
+		<dc:subject id="subject-4">Cynicism--Poetry</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043932</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
